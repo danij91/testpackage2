@@ -1,0 +1,16 @@
+{
+  "name": "com.danij.testpackage2",
+  "version": "0.1.0",
+  "displayName": "Danijs custom package",
+  "unity": "2021.3",
+  "author": {
+    "name": "danij91"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danij91/testpackage2.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
